@@ -29,7 +29,7 @@ A desktop application built with Python and Tkinter for managing book inventory 
 2. Download or clone the project files
 3. Run the application:
    ```bash
-   python library_management.py
+   python LibraryManagementSystem.py
    ```
 
 ## How to Use
